@@ -1,2 +1,2 @@
 # senhas-digitais
-Desenvolvimento html, css JavaScript
+Desenvolvimento html, css e JavaScript
